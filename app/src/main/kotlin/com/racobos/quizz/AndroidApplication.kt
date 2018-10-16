@@ -1,8 +1,8 @@
-package com.racobos.manhattan
+package com.racobos.quizz
 
 import android.support.multidex.MultiDexApplication
-import com.racobos.manhattan.di.InjectorComponent
-import com.racobos.manhattan.di.injectorComponent
+import com.racobos.quizz.di.InjectorComponent
+import com.racobos.quizz.di.injectorComponent
 
 class AndroidApplication : MultiDexApplication(), InjectorComponent by injectorComponent() {
 

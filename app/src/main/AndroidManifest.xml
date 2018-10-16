@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.racobos.manhattan">
+          package="com.racobos.quizz">
 
     <application
-            android:name=".AndroidApplication"
+            android:name="com.racobos.quizz.AndroidApplication"
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
             android:fullBackupContent="false"
@@ -11,7 +11,7 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
 
-        <activity android:name=".main.MainActivity">
+        <activity android:name="com.racobos.quizz.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <action android:name="android.intent.action.VIEW"/>

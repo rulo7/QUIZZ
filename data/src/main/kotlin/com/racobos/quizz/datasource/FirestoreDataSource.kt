@@ -1,4 +1,4 @@
-package com.racobos.manhattan.datasource
+package com.racobos.quizz.datasource
 
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.firestore.FirebaseFirestore

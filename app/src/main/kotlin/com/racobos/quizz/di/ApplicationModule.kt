@@ -1,7 +1,7 @@
-package com.racobos.manhattan.di
+package com.racobos.quizz.di
 
-import com.racobos.manhattan.repository.AuthDataRepository
-import com.racobos.manhattan.repository.AuthRepository
+import com.racobos.quizz.repository.AuthDataRepository
+import com.racobos.quizz.repository.AuthRepository
 import dagger.Module
 import dagger.Provides
 import io.reactivex.Scheduler

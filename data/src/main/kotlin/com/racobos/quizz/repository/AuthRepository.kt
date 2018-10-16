@@ -1,9 +1,9 @@
-package com.racobos.manhattan.repository
+package com.racobos.quizz.repository
 
-import com.racobos.manhattan.datasource.FirebaseAuthDataSource
-import com.racobos.manhattan.datasource.FirebaseRealDatabaseDataSource
-import com.racobos.manhattan.datasource.FirestoreDataSource
-import com.racobos.manhattan.entity.UserEntity
+import com.racobos.quizz.datasource.FirebaseAuthDataSource
+import com.racobos.quizz.datasource.FirebaseRealDatabaseDataSource
+import com.racobos.quizz.datasource.FirestoreDataSource
+import com.racobos.quizz.entity.UserEntity
 import io.reactivex.Observable
 import io.reactivex.Single
 import javax.inject.Inject

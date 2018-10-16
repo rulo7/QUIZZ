@@ -1,4 +1,4 @@
-package com.racobos.manhattan
+package com.racobos.quizz
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

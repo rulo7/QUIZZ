@@ -1,6 +1,6 @@
-package com.racobos.manhattan.entity
+package com.racobos.quizz.entity
 
-import com.racobos.manhattan.datasource.Entity
+import com.racobos.quizz.datasource.Entity
 import java.text.SimpleDateFormat
 import java.util.*
 

@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.racobos.teammus"
+        applicationId "com.racobos.quizz"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
@@ -31,7 +31,6 @@ android {
         test.java.srcDirs += 'src/test/kotlin'
         androidTest.java.srcDirs += 'src/test/kotlin'
     }
-
 }
 
 kapt {
