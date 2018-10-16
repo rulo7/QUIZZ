@@ -1,8 +1,8 @@
-package com.racobos.manhattan.di
+package com.racobos.quizz.di
 
-import com.racobos.manhattan.AndroidApplication
-import com.racobos.manhattan.main.MainActivity
-import com.racobos.manhattan.repository.AuthRepository
+import com.racobos.quizz.AndroidApplication
+import com.racobos.quizz.main.MainActivity
+import com.racobos.quizz.repository.AuthRepository
 import dagger.Component
 import javax.inject.Singleton
 

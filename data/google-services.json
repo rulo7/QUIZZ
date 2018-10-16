@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "463427828438",
-    "firebase_url": "https://racobos-44efe.firebaseio.com",
-    "project_id": "racobos-44efe",
-    "storage_bucket": "racobos-44efe.appspot.com"
+    "project_number": "928064851632",
+    "firebase_url": "https://quizz-22120.firebaseio.com",
+    "project_id": "quizz-22120",
+    "storage_bucket": "quizz-22120.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:463427828438:android:b327f00e2934ba5c",
+        "mobilesdk_app_id": "1:928064851632:android:d875518d16774967",
         "android_client_info": {
-          "package_name": "com.racobos.manhattan"
+          "package_name": "com.racobos.quizz"
         }
       },
       "oauth_client": [
         {
-          "client_id": "463427828438-46fn3ghd3g24kel6t2pq3qgvegahdh9a.apps.googleusercontent.com",
+          "client_id": "928064851632-araamc80rcc5k6uf00oa5h8ofg0gmn4n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAeJW8Q6nCfYgZXs-zcH4zqPrARnOT7kZU"
+          "current_key": "AIzaSyAg3pjwLWpb3rXrJPxZoYvKilEe9F2XRWo"
         }
       ],
       "services": {

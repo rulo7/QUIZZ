@@ -1,4 +1,4 @@
-package com.racobos.manhattan.datasource
+package com.racobos.quizz.datasource
 
 import com.google.firebase.auth.FirebaseAuth
 import javax.inject.Inject

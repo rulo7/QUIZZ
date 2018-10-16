@@ -1,10 +1,10 @@
-package com.racobos.manhattan.main
+package com.racobos.quizz.main
 
 import android.os.Bundle
 import android.os.PersistableBundle
 import android.support.v7.app.AppCompatActivity
-import com.racobos.manhattan.di.InjectorComponent
-import com.racobos.manhattan.di.injectorComponent
+import com.racobos.quizz.di.InjectorComponent
+import com.racobos.quizz.di.injectorComponent
 import org.jetbrains.anko.setContentView
 
 class MainActivity : AppCompatActivity(), InjectorComponent by injectorComponent() {

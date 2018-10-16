@@ -1,4 +1,4 @@
-package com.racobos.manhattan.di
+package com.racobos.quizz.di
 
 import io.reactivex.android.schedulers.AndroidSchedulers
 

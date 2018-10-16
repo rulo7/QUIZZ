@@ -1,9 +1,9 @@
-package com.racobos.manhattan.datasource
+package com.racobos.quizz.datasource
 
 import com.google.firebase.FirebaseNetworkException
 import com.google.firebase.auth.*
-import com.racobos.manhattan.entity.DEFAULT_ID
-import com.racobos.manhattan.entity.formatToAppString
+import com.racobos.quizz.entity.DEFAULT_ID
+import com.racobos.quizz.entity.formatToAppString
 import java.util.*
 
 typealias Cancellable = () -> Unit

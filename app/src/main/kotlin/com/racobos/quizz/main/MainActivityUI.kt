@@ -1,4 +1,4 @@
-package com.racobos.manhattan.main
+package com.racobos.quizz.main
 
 import android.view.View
 import org.jetbrains.anko.*
